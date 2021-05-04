@@ -18,8 +18,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x8769
+#define VENDOR_ID       0x4B50 // 'KP' kopibeng
+#define PRODUCT_ID      0x9999
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    coseyfannitutti
 #define PRODUCT         MYSTERIUM
